@@ -10,3 +10,14 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8100/eureka
+
+####swagger相关配置
+swagger:
+  base-package: com.kinglead.member.service
+  title: SpringCloud2.x构建微服务电商项目-微信服务接口
+  description: 该项目“基于SpringCloud2.x构建微服务电商项目”。
+  version: 1.1
+  terms-of-service-url: www.kinglead.com
+  contact:
+    name: kinglead
+    email: 25839691@qq.com

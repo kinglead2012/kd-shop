@@ -5,7 +5,9 @@
     <file url="file://$PROJECT_DIR$/kd-shop-api-entitys-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kd-shop-api-entitys-api/kd-shop-api-weixin-eneity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kd-shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-basics-springcloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kd-shop-basics/kd-shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-basics/kd-shop-basics-springcloud-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kd-shop-service-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kd-shop-service-api/kd-shop-service-api-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kd-shop-service-api/kd-shop-service-api-weixin" charset="UTF-8" />
