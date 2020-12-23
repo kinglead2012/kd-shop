@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>kd-shop-service-weixin</module>
+        <module>kd-shop-service-member</module>
     </modules>
 
 </project>

@@ -1,6 +1,6 @@
-package com.kinglead.service;
+package com.kinglead.weixin.service;
 
-import com.kinglead.entity.AppEntity;
+import com.kinglead.entity.weixin.AppEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**

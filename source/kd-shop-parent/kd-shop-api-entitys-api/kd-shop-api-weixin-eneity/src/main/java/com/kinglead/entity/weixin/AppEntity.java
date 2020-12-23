@@ -1,4 +1,4 @@
-package com.kinglead.entity;
+package com.kinglead.entity.weixin;
 
 import lombok.Data;
 

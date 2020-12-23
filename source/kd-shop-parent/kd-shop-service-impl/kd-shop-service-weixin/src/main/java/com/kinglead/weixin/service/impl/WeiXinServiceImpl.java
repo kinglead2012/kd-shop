@@ -1,7 +1,7 @@
-package com.kinglead.service.impl;
+package com.kinglead.weixin.service.impl;
 
-import com.kinglead.entity.AppEntity;
-import com.kinglead.service.WeiXinService;
+import com.kinglead.entity.weixin.AppEntity;
+import com.kinglead.weixin.service.WeiXinService;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
