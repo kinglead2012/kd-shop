@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-basics/kd-shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-service-api/kd-shop-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kd-shop-service-impl/kd-shop-service-weixin" charset="UTF-8" />
+  </component>
 </project>
